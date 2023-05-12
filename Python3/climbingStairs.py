@@ -1,3 +1,6 @@
+##Feel free to use this code.
+## OpenSource Rulez
+
 def climbingStairs(n):
     one = 1
     two = 1
