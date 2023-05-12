@@ -1,3 +1,6 @@
+##Feel free to use this code.
+## OpenSource Rulez
+
 class Solution:
     def cloneGraph(self, node: 'Node') -> 'Node':
         
