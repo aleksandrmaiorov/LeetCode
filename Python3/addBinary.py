@@ -1,3 +1,6 @@
+##Feel free to use this code.
+## OpenSource Rulez
+
 def addBinary(a,b):
     a = list(a)
     b= list(b)
