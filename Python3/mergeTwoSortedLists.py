@@ -1,3 +1,6 @@
+##Feel free to use this code.
+## OpenSource Rulez
+
 class ListNode(object):
     def __init__(self, val=0, next=None):
         self.val = val
