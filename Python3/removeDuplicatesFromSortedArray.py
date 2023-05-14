@@ -1,3 +1,6 @@
+##Feel free to use this code.
+## OpenSource Rulez
+
 def removeDuplicates(nums):
         n = 1
         for i in range(len(nums)-1):
