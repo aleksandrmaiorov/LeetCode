@@ -1,3 +1,6 @@
+##Feel free to use this code.
+## OpenSource Rulez
+
 def plus(digits):
     for i in reversed(range(len(digits))):
         if digits[i] == 9:
