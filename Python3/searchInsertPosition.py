@@ -1,3 +1,6 @@
+##Feel free to use this code.
+## OpenSource Rulez
+
 def searchInsert(nums,target):
     low = 0
     high = len(nums) - 1
