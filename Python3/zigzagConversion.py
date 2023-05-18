@@ -1,6 +1,8 @@
 ##Feel free to use this code.
 ## OpenSource Rulez
 
+
+
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
         change_dir = lambda i: i < 0 or i >= numRows
